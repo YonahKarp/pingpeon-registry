@@ -240,6 +240,46 @@
       "updated": "2026-02-13"
     },
     {
+      "name": "ccg_china_dozer",
+      "display_name": "C&C Generals: China Dozer",
+      "version": "1.0.0",
+      "description": "China dozer sound pack from Command & Conquer: Generals",
+      "author": {
+        "name": "YonahKarp",
+        "github": "YonahKarp"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 25,
+      "total_size_bytes": 1307964,
+      "source_repo": "YonahKarp/openpeon-ccg-china-dozer",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "ed3ff87125fc3bcac65bb146f5d2ed20ab78d6d0bdc74b86d788e00dd85feb12",
+      "tags": [
+        "gaming",
+        "command-and-conquer",
+        "ea",
+        "rts"
+      ],
+      "preview_sounds": [
+        "A_very_good_plan_general.mp3",
+        "Construction_built_to_spec.mp3"
+      ],
+      "added": "2026-02-13",
+      "updated": "2026-02-13"
+    },
+    {
       "name": "counterstrike",
       "display_name": "Counter-Strike",
       "version": "1.0.0",

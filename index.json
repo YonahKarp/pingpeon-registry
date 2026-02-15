@@ -82,6 +82,46 @@
       "updated": "2026-02-12"
     },
     {
+      "name": "ae_qianyu",
+      "display_name": "明日方舟:终末地 陈千语",
+      "version": "1.0.4",
+      "description": "明日方舟:终末地 陈千语 语音包",
+      "author": {
+        "name": "LiRiu",
+        "github": "LiRiu"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit"
+      ],
+      "language": "zh-CN",
+      "license": "CC-BY-NC-4.0",
+      "sound_count": 9,
+      "total_size_bytes": 364120,
+      "source_repo": "LiRiu/qianyu-chen-pack",
+      "source_ref": "v1.0.4",
+      "source_path": ".",
+      "manifest_sha256": "50fd5866b2f025deba93723ceae9aa77ef88302efa7915711d881222c391d67b",
+      "tags": [
+        "gaming",
+        "明日方舟:终末地",
+        "arknights:endfield"
+      ],
+      "preview_sounds": [
+        "new-1.mp3",
+        "dang-1.mp3",
+        "dang-2.mp3",
+        "dang-3.mp3"
+      ],
+      "added": "2026-02-15",
+      "updated": "2026-02-15"
+    },
+    {
       "name": "aoe2",
       "display_name": "Age of Empires II Taunts",
       "version": "1.0.0",
